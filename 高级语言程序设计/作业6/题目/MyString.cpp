@@ -23,7 +23,7 @@ int MyString::compareTo(MyString &otherString)
 
 //要求：把s中的字符逐个复制到本对象的c数组
 //注意：字符串以'\0'结尾，复制到'\0'即可停止
-//注意：即可停止复制并不表示复制结束，你需要手动处理残余的文件
+//注意：即可停止复制并不表示复制结束，你需要手动处理残余的字符
 void MyString::setString(char s[])
 {
     //请填写程序
