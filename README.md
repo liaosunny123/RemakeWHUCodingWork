@@ -14,3 +14,7 @@ This repo tries to remake the coding homework or experiment of WHU to solve some
 课程-作业或实验-作业或实验的标题-题目+答案(optional)  
 例如，一个PR的标题应该为：“高级程序设计-作业6-文本排序”（如果没有题目可以自行拟定）  
 PR内容应该提交到/高级程序设计/作业6/文本排序，提交中有两个文件夹，第一个为题目，里面应该有修正后的题目，第二个为答案，可以选择提交也可以不提交，还应该包含一个README，表示被修复的内容。  
+# Contributor  
+<a href="https://github.com/liaosunny123/RemakeWHUCodingWork/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=liaosunny123/RemakeWHUCodingWork" />
+</a>
